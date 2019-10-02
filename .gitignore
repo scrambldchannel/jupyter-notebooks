@@ -3,3 +3,6 @@ notebook_config.json
 .vscode
 
 # probably useful to stick a lot of other common stuff here
+
+# exclude cricket datasets
+cricket/datasets
